@@ -1,0 +1,16 @@
+name: untitled1
+description: A brief description of your project
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Buraya kullanacağınız paketleri ekleyin
+  http: ^0.13.3
+  geolocator: ^7.6.2
+
+# Uygulamanızın gereksinim duyabileceği diğer kaynaklar veya yapılandırmaları buraya ekleyebilirsiniz.
